@@ -26,3 +26,5 @@ Domain Knowledge: Sales and profitability analysis.
 Value to Business:
 This dashboard served as a centralized platform for monitoring sales performance, helping the organization optimize resources, identify profitable segments, and improve overall efficiency.
 
+
+
